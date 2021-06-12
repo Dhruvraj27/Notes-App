@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebasePractice</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="forget_email_et_hint">Email</string>
+    <string name="btn_next">Next</string>
+    <string name="recover">Recover</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
